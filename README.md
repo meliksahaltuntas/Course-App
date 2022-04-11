@@ -1,6 +1,9 @@
 # Course-App
+Course-App provides you save and edit your courses.Simple to use.
+
 
 Course App Link :https://meliksahaltuntas.github.io/Course-App/
+
 
 -JavaScript
   >Local Storage
